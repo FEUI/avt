@@ -1,0 +1,24 @@
+{
+  "name": "avt",
+  "version": "1.0.0",
+  "description": "a mvvm frame",
+  "main": "dist/avt.js",
+  "scripts": {
+    "dev": "",
+    "build": "node build/build.js",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEUI/avt.git"
+  },
+  "keywords": [
+    "avt"
+  ],
+  "author": "liuyidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FEUI/avt/issues"
+  },
+  "homepage": "https://github.com/FEUI/avt#readme"
+}
